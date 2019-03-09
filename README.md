@@ -115,7 +115,7 @@ source ~/.bashrc
 # pip源更改
 
 ## 临时使用： 
-pip 后加参数 -i https://pypi.tuna.tsinghua.edu.cn/simple 
+pip 后加参数 -i https://pypi.tuna.tsinghua.edu.cn/simple <br>
 例：pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pandas 
 ## 永久使用： 
 ### Linux下： 
